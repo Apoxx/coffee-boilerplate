@@ -1,4 +1,4 @@
-es6-boilerplate
+coffee-boilerplate
 ===============
 
-Express + ES6 + Stylus boilerplate
+Express + Jade + CoffeeScript + Stylus boilerplate
