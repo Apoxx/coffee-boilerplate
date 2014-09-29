@@ -1,0 +1,24 @@
+{
+  "name": "coffee-boilerplate",
+  "version": "0.0.1",
+  "description": "Express + Jade + CoffeeScript + Stylus boilerplate",
+  "main": "app.coffee",
+  "author": "Apox <npm@apox.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.8.6",
+    "stylus": "^0.48.1",
+    "nib": "^1.0.3",
+    "jade": "^1.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "watchify": "^1.0.2",
+    "browserify": "^5.11.0",
+    "vinyl-source-stream": "^0.1.1",
+    "gulp-nodemon": "^1.0.4",
+    "gulp-livereload": "^2.1.1",
+    "coffeeify": "^0.7.0",
+    "coffee-script": "^1.8.0"
+  }
+}
