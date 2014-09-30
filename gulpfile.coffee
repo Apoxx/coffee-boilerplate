@@ -7,6 +7,8 @@ nodemon = require "gulp-nodemon"
 livereload = require "gulp-livereload"
 
 watchify.args.debug = true
+watchify.args.extensions =
+  '.coffee'
 
 livereload.listen()
 
